@@ -61,3 +61,5 @@ int main(){
 
     cout<<"Status Kelulusan = "<<status<<" , dengan nilai rata-rata = "<<rerata<<endl;
 }
+
+//Logika OR
