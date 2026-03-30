@@ -7,9 +7,9 @@ using namespace std;
 int main(){
     int x;
 
-    //perulangan dengan for
+    //perulangan dengan For
     //mencetak tulisan sebanyak 5 kali
-    //perulangan dengan for
+    //perulangan dengan For
     cout<<"Perulangan for"<<endl;
     for(int i=0;i<=4;i++){
         cout<<"Teknologi informasi UMY"<<endl;
