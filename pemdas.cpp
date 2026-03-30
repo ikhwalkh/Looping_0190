@@ -27,6 +27,7 @@ int main(){
         x = rand()%10;
     }
 
+    //perulangan dengan DO.....While
     cout<<'Bilangan acak while yang terakhir ='<<x <<endl;
     cout<<endl;
 
