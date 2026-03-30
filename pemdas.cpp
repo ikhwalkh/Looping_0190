@@ -19,7 +19,7 @@ int main(){
     //untuk mendapatkan urutan angka acak yg berbeda
     srand(time(0));
 
-    //perulangan dengan While
+    //perulangan dengan while
     x = 1 + rand()%10;
 
     while(x<=5){
