@@ -16,7 +16,7 @@ int main(){
     }
     cout<<endl;
 
-    //untuk mendapatkan urutan angka acak yg berbeda
+    //untuk mendapatkan urutan angka acak yg Berbeda
     srand(time(0));
 
     //perulangan dengan while
